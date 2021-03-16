@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.10.0",
+    "mongoose": "^5.11.18",
+    "validator": "^13.5.2"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
